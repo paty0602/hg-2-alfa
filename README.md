@@ -7,16 +7,12 @@
 | Dato 1       | Dato 2       | Dato 3       |
 | Dato 4       | Dato 5       | Dato 6       |
 
-
-
-
-
-|--------------|--------------|--------------|
-| Usuario      |     Alias    | Ubicacion    |
-| Abraham E.   |     Alpha    | Puerto Ordaz |
-| Jose G.      |     Bravo    |              |
-| Beiker       |     Charlei  |              |
-| Patricia L.  |     Delta    |              |
+| Alias | Usuario      |     Alias    | Ubicacion  |
+|-------|--------------|--------------|------------|
+|-------| Abraham E.   |     Alpha    | Venezuela  |
+|-------| Jose G.      |     Bravo    | Venezuela  |
+|-------| Beiker       |     Charlei  | Venezuela  |
+|-------| Patricia L.  |     Delta    | Venezuela  |
 
 
 # Tipo de usuario
