@@ -11,10 +11,10 @@
 PULL_REQUEST_TEMPLATE
 
 Tipo de usuario
-[] Alfa
-[]Bravo
-[]Charlie
-[]Delta
+[ ] Alfa
+[ ] Bravo
+[ ] Charlie
+[] Delta
 
 Tecnología
 [] HTML
