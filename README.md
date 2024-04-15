@@ -8,13 +8,12 @@
 * Patricia Lugo Alias Delta
 
 
-PULL_REQUEST_TEMPLATE
+# Tipo de usuario
 
-Tipo de usuario
-[ ] Alfa
-[ ] Bravo
-[ ] Charlie
-[] Delta
+[ ]Alfa
+[ ]Bravo
+[ ]Charlie
+[ ]Delta
 
 Tecnología
 [] HTML
