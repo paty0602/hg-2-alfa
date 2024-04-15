@@ -2,11 +2,12 @@
 
 # Participantes
 
-* Abraham  alias Alpha
-* Jose Gamboa Alias Bravo
-* Beiker Alias Charlie
-* Patricia Lugo Alias Delta
-
+Lider | Usuario      |     Alias    | Ubicacion    |
+----- |--------------|--------------|--------------|
+- [ ] | Abraham E.   |     Alpha    | Puerto Ordaz |
+- [ ] | Jose G.      |     Bravo    |              |
+- [ ] | Beiker       |     Charlei  |              |
+- [ ] | Patricia L.  |     Delta    |              |
 
 
 # Tipo de usuario
