@@ -2,17 +2,12 @@
 
 # Participantes
 
------ |--------------|--------------|--------------|
-Lider | Usuario      |     Alias    | Ubicacion    |
------ |--------------|--------------|--------------|
-         Abraham E.   |     Alpha    | Puerto Ordaz |
------ |--------------|--------------|--------------|
-      | Jose G.      |     Bravo    |              |
------ |--------------|--------------|--------------|  
-------| Beiker       |     Charlei  |              |
------ |--------------|--------------|--------------|
-------| Patricia L.  |     Delta    |              |
------ |--------------|--------------|--------------|
+|--------------|--------------|--------------|
+| Usuario      |     Alias    | Ubicacion    |
+| Abraham E.   |     Alpha    | Puerto Ordaz |
+| Jose G.      |     Bravo    |              |
+| Beiker       |     Charlei  |              |
+| Patricia L.  |     Delta    |              |
 
 
 # Tipo de usuario
