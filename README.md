@@ -8,23 +8,32 @@
 * Patricia Lugo Alias Delta
 
 
+
+# Tipo de usuario
+- [ ] Alfa
+- [ ] Bravo 
+- [ ] Charlie
+- [ ] Delta
+- [ ] Echo
+
 # Tipo de usuario
 
-[ ]Alfa
-[ ]Bravo
-[ ]Charlie
-[ ]Delta
+- [ ]Alfa
+- [ ]Bravo
+- [ ]Charlie
+- [ ]Delta
 
-Tecnología
-[] HTML
-[] Json
-[] Archivo plano (.txt)
-[] Javascript
-[] Markdown / .md
-Seleccione el tipo de actividad
-[] Feature
-[] Changes
-[] Hotfix
-[] Refactor
-[] Performance
-[] Testing
+# Tecnología
+-[ ] HTML
+-[ ] Json
+-[ ] Archivo plano (.txt)
+-[ ] Javascript
+-[ ] Markdown / .md
+
+# Seleccione el tipo de actividad
+-[ ] Feature
+-[ ] Changes
+-[ ] Hotfix
+-[ ] Refactor
+-[ ] Performance
+-[ ] Testing
